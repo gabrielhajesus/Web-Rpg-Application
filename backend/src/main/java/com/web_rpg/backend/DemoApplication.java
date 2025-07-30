@@ -1,4 +1,4 @@
-package com.web_rpg.demo;
+package com.web_rpg.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
